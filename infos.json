@@ -1047,5 +1047,20 @@
           "key_ims_force_enable_setting": true,
           "key_ims_install_apn": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "Daria/zahedan.*",
+        "device_name": "Daria Bond I",
+        "maintainer": {
+            "name": "itisFarzin",
+            "telegram": "https://t.me/itisFarzin"
+        },
+        "community": {
+            "telegram": "https://t.me/itisFarzinChat"
+        },
+        "preferences": {
+            "key_misc_dynamic_sysbta": false
+        }
     }
 ]
