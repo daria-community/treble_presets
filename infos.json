@@ -1078,7 +1078,8 @@
             "telegram": "https://t.me/itisFarzinChat"
         },
         "preferences": {
-            "key_misc_dynamic_sysbta": false
+            "key_misc_dynamic_sysbta": false,
+            "key_misc_patch_smsc": false
         }
     }
 ]
